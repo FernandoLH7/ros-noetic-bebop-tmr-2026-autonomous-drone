@@ -1,5 +1,7 @@
 # ROS Noetic Bebop TMR 2026 Autonomous Drone
-
+<p align="center">
+  <img src="Captura de pantalla 2026-06-24 163749.png" alt="Estudiantes UDLAP obtuvieron segundo lugar en el Torneo Mexicano de Robotica 2026" width="720">
+</p>
 <p align="center">
   <img src="videos/bebop_preview.gif" alt="Funcionamiento del sistema autonomo con Parrot Bebop" width="300">
 </p>
